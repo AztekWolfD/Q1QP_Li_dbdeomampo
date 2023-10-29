@@ -253,6 +253,10 @@
         width: 30vw;
     }
 
+    .quanti img{
+        height: 60vh;
+        width: 30vw}
+
     .quali {
         float: right;
         margin-right: 20vw;
@@ -260,6 +264,10 @@
         height: 65vh;
         width: 30vw;
     }
+
+    .quali img{
+        height: 60vh;
+        width: 29vw}
 
     .pages1{
         margin-top: 0.5vw;
@@ -334,7 +342,6 @@
 }
 
 .topnavbar2 {
-
     display: flex;
     justify-content: space-between;
     background-color:#000000;
@@ -344,8 +351,7 @@
     font-family: 'Oswald', sans-serif;
 }
 
-.botnavbar2
-{
+.botnavbar2{
     justify-content: space-between;
     display: flex;
     background-color: #000000;
@@ -363,8 +369,7 @@
     margin-left: 13vw;
 }
 
-.botnavbar2 h5
-{
+.botnavbar2 h5{
     margin-top: 1vw;
     margin-right: 1vw;
     text-align: right;
@@ -380,7 +385,6 @@
 
 .bannertext2{
     float: center;
-    margin-top: 1vw;
     top: 10%;
     left: 8%;
     }
@@ -388,7 +392,6 @@
     .ref{
         float: center;
         margin-left: 35vw;
-        margin-top: 2vh;
         width: 30vw;
         font-family: 'Oswald', sans-serif;
         font-size: 1.2em;
@@ -398,7 +401,7 @@
     .bannertext2 h2{
         text-transform: uppercase;
         color:rgb(165, 163, 57);
-        font-size: 3.7em;
+        font-size: 3.5em;
         font-family: 'Anton', sans-serif;
         text-align: center;
     
